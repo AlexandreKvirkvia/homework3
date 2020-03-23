@@ -1,0 +1,18 @@
+body{
+    background-image: url("1s.jpg");
+    color: burlywood;
+}
+.nasi1{
+    width: 900px;
+    margin: auto;
+    text-align: 0;
+}
+.nasi1 h1{
+    text-align: center;
+}
+
+.nasi1 img{
+    width: 200px;
+    height: 200px;
+    padding: 60px;
+}

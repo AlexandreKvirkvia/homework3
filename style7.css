@@ -1,0 +1,45 @@
+.sani{
+    width: 800px;
+    height: 160px;
+    margin: 20px auto;
+    border: solid black 2px;
+    background: gray;
+    display: flex;
+}
+
+.sani div{
+    margin: 30px;
+    height: 100px;
+    width: 180px;
+
+}
+.s1{
+    background-image: linear-gradient(to right,  red, black,rgb(181, 216, 181));
+}
+.s2{
+    background-image: linear-gradient(red,green,black);
+}
+.s3{
+    background-image: linear-gradient(to bottom right, blue, green  ,red);
+}
+.s4{
+    background-image: linear-gradient(to bottom left, blue, green  ,red);
+}
+
+
+.s5{
+    background-image: radial-gradient(red 5%, rgb(9, 255, 0) 15%, blue 60%);
+
+}
+.s6{
+    background-image: radial-gradient(red 30%, rgb(5, 129, 1) 55%, rgb(0, 0, 0) 15%);
+}
+
+.s7{
+    background-image: repeating-radial-gradient(red 35%, rgb(5, 129, 1) 60%, rgb(5, 7, 141)5%);
+}
+
+.s8{
+    background-image: radial-gradient(red 18%, rgb(9, 255, 0) 3%, blue 60%);
+
+}
